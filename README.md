@@ -3,7 +3,7 @@
 ##### Connect with me
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/mateusrodsilva)](https://github.com/mateusrodsilva)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mateus-rodrigues-silva-89a03517b/)](https://www.linkedin.com/in/mateus-rodrigues-silva-89a03517b/)
-[![Outlook Badge](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white&link=mailto:m.rodriguessilva75@outlook.com/)](mailto:m.rodriguessilva75@outlook.com/)
+[![Outlook Badge](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white&link=mailto:m.rodriguessilva75@outlook.com)](mailto:m.rodriguessilva75@outlook.com)
 
 ### About me
 
