@@ -21,7 +21,7 @@ I have 18 years old and I'm a student of the technical course on systems develop
 
 ---
 ### Now
-🌱 I’m currently learning API with C#
+🌱 I’m currently learning ReactJs
 
 ---
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mateusrodsilva&theme=radical)](https://github.com/mateusrodsilva/github-readme-stats)
