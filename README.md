@@ -19,9 +19,6 @@ I have 18 years old and I'm a student of the technical course on systems develop
 ![Git Badge](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Postman Badge](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
 
----
-### Now
-🌱 I’m currently learning ReactJs
 
 ---
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mateusrodsilva&theme=radical)](https://github.com/mateusrodsilva/github-readme-stats)
