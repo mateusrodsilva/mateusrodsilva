@@ -7,11 +7,11 @@
 
 ### About me
 
-I have 18 years old and I'm a student of the technical course on systems development at [@SENAI Informática](https://github.com/senai-desenvolvimento).
+I have 19 years old and I'm a student of the technical course on systems development at [@SENAI Informática](https://github.com/senai-desenvolvimento).
 
 ### Learning now
 
-Python.
+Django Framework.
 
 ### Skills
 ![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
