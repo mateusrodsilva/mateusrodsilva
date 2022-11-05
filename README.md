@@ -11,7 +11,7 @@ I have 19 years old and I'm a student of the technical course on systems develop
 
 ### Learning now
 
-Django Framework.
+.NET Tests with Selenium
 
 ### Skills
 ![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
