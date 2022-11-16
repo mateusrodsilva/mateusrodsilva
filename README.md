@@ -1,13 +1,12 @@
 ### Hi, I'm Mateus 👋
 
 ##### Connect with me
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/mateusrodsilva)](https://github.com/mateusrodsilva)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mateus-rodrigues-silva-89a03517b/)](https://www.linkedin.com/in/mateus-rodrigues-silva-89a03517b/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mateusrodsilva/)](https://www.linkedin.com/in/mateusrodsilva/)
 [![Outlook Badge](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white&link=mailto:m.rodriguessilva75@outlook.com)](mailto:m.rodriguessilva75@outlook.com)
 
 ### About me
 
-I have 19 years old and I'm a student of the technical course on systems development at [@SENAI Informática](https://github.com/senai-desenvolvimento).
+I have 19 years old and I'm graduated of the technical course on systems development at [@SENAI Informática](https://github.com/senai-desenvolvimento).
 
 ### Learning now
 
